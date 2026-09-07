@@ -48,8 +48,8 @@ const shows = [
   {
     date: "OCT 24",
     year: "2026",
-    city: "台南",
-    venue: "台南市立體育場",
+    city: "新竹",
+    venue: "新竹市立體育場",
     status: "soon",
   },
   {
